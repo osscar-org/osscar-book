@@ -105,9 +105,18 @@ How to cite
 
 If you use OSSCAR notebooks or technology, we would appreciate if you could cite the following paper:
 
-| D. Du, T. Baird, S. Bonella and G. Pizzi, OSSCAR, an open platform for collaborative development of computational tools for education in science, 
+For the notebooks and the project
+----------------------------------
+
+| 1. D. Du, T. Baird, S. Bonella and G. Pizzi, OSSCAR, an open platform for collaborative development of computational tools for education in science, 
   *Computer Physics Communications*, **282**, 108546 (2023).
 | `https://doi.org/10.1016/j.cpc.2022.108546 <https://doi.org/10.1016/j.cpc.2022.108546>`_
+
+For the widgets and extensions 
+----------------------------------
+
+| 2. D. Du, T. J. Baird, K. Eimre, S. Bonella, G. Pizzi, Jupyter widgets and extensions for education and research in computational physics and chemistry, *Computer Physics Communications*, **305**, 109353 (2024).
+| `https://doi.org/10.1016/j.cpc.2024.109353 <https://doi.org/10.1016/j.cpc.2024.109353>`_
 
 .. image:: logos.png
   :width: 800
