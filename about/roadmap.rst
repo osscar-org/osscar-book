@@ -68,14 +68,16 @@ set up two dokku_ servers under the Materials Cloud project using the Swiss
 supercomputing infrastructure at CSCS_. Our web apps have since been successfully deployed on dokku
 servers with lower latency.
 
-In the 4th year (2022-2023), we are planning to make more high quality
-interactive web apps and introduce new technologies to support them. We are
-going to present and promote the OSSCAR project in conferences and workshops. Moreover, we
-will encourage more instructors and students, both from EPFL and outside, to contribute and use
+In the 4th year (2022-2023), we have developed more high quality
+interactive web apps and introduced new technologies to support them. We have further presented and promoted the OSSCAR project in conferences and workshops. Moreover, we
+have encouraged a larger number of instructors and students, both from EPFL and outside, to contribute and use
 OSSCAR web apps and technologies, with the hope that they shall provide a powerful educational tool in classrooms across a host of academic institutions.
+
+Now, even if the project funding officially finished, we are continuing to work on further maintaining and developing technology and notebooks, also in collaboration with other groups and researchers.
 
 News
 ----------
+* **2024.22.08**: 2nd OSSCAR paper ` `"Jupyter widgets and extensions for education and research in computational physics and chemistry"`_ published on Computer Physics Communications.
 * **2023 11.05**: OSSCAR project was presented at `JupyterCon 2023`_ by Taylor Baird.
 * **2023.01.01**: 1st OSSCAR paper `"OSSCAR, an open platform for collaborative development of computational tools for education in science"`_ published on Computer Physics Communications.
 * **2022.03.09**: `CECAM workshop`_: Presenting an OSSCAR…collaborative platform for Open Software Services for Classroom and Research.
@@ -104,7 +106,7 @@ News
 .. _paper: https://doi.org/10.1016/j.cpc.2022.108546
 .. _"OSSCAR, an open platform for collaborative development of computational tools for education in science": https://doi.org/10.1016/j.cpc.2022.108546
 .. _JupyterCon 2023: https://www.jupytercon.com/
-
+.. _"Jupyter widgets and extensions for education and research in computational physics and chemistry": https://doi.org/10.1016/j.cpc.2024.109353  
 
 
 

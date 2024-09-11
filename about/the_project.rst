@@ -27,13 +27,13 @@ OSSCAR started in 2019 and is funded by the EPFL Open Science Fund until 2022.
 Tools are provided as web applications, generated from Jupyter notebooks. This facilitates access to educational functionality either directly or wrapped around existing open-source simulation codes. Implementing Software-as-a-Service tools alongside interactive Graphical User Interfaces (GUIs) engenders easy development and deployment (for researchers and classroom instructors), and interaction (for students).
 
 OSSCAR's goal is to become a support tool for a diverse range of computational classes and research areas, both in terms of content and of easy-to-deploy models.
-We described the goals, objectives and deliverables of OSSCAR in the
-following paper (and we would appreciate if you could cite it if you use OSSCAR notebooks or technology):
+We described the goals, objectives deliverables, along with the underlying technology of OSSCAR in the
+following papers (and we would appreciate if you could cite them if you use OSSCAR notebooks or technology):
 
-| **D. Du et al., Comput. Phys. Commun. 282, 108546 (2023)**
+| D. Du, T. Baird, S. Bonella and G. Pizzi, OSSCAR, an open platform for collaborative development of computational tools for education in science, Comp. Phys. Comm. 282, 108546 (2023).
 | `https://doi.org/10.1016/j.cpc.2022.108546 <https://doi.org/10.1016/j.cpc.2022.108546>`_.
-
-|
+| D. Du, T. J. Baird, K. Eimre, S. Bonella, G. Pizzi, Jupyter widgets and extensions for education and research in computational physics and chemistry, Comp. Phys. Comm. 305, 109353 (2024). 
+| `https://doi.org/10.1016/j.cpc.2024.109353 <https://doi.org/10.1016/j.cpc.2024.109353>`_.
 
 .. image:: images/osscar-loop.png
   :width: 600
